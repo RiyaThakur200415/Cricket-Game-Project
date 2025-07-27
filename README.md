@@ -1,6 +1,6 @@
 <h1>🏏Cricket Game🏏</h1>
-<p><pre>A fun and interactive web-based cricket-themed game where you play against the computer by choosing between Bat,Ball or Stump. 
-   The game tracks scores using your browser's local storage and gives instant feedback on each round.</pre></p>
+<p>A fun and interactive web-based cricket-themed game where you play against the computer by choosing between Bat,Ball or Stump. 
+   The game tracks scores using your browser's local storage and gives instant feedback on each round.</p>
 <hr>
 
 <h3>🏏About the game:</h3>
@@ -11,6 +11,6 @@
         <li>Ball beats Stump</li>
         <li>Stump beats Bat</li>
         <li>Same choice results in a Tie</li>
-        
-    </ul>
+      </ul>  
+    
 </p>
